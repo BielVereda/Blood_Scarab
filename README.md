@@ -23,7 +23,7 @@ Você joga como **Kebeh (Qebehsenuef)**, o deus menor dos intestinos e da mumifi
 
 ## 🛠️ Tecnologias e Stack (Engine Base)
 
-O jogo foi construído inteiramente para rodar direto no navegador, usando as melhores tecnologias de renderização 3D e física para React:
+O jogo está sendo construído inteiramente para rodar direto no navegador, usando as melhores tecnologias de renderização 3D e física para React:
 
 - **React + Vite:** Para UI (HUD, Inventário) e build rápido.
 - **React Three Fiber (R3F):** Abstração declarativa do `Three.js` para renderizar o 3D.
@@ -62,7 +62,6 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 - **W, A, S, D** ou **Setas:** Movimentar Kebeh pelo cenário.
 - **J:** Ataque Leve (Aciona Hitbox Frontal).
 - **K:** Ataque Pesado (Dano Maior e maior tempo de recuperação).
-- **Espaço:** Pulo/Dash (Configurável).
 
 *Nota: Durante os ataques, a movimentação é momentaneamente travada para garantir o peso (Hit Stop) clássico de Hack 'n' Slash.*
 
